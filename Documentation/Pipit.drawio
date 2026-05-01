@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IMUp0Hsa44ZDUP0Q3erW" name="Brainstorm">
-    <mxGraphModel dx="1406" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,54 @@
         </mxCell>
         <mxCell id="E1q1ehJa4MZv8HJUVjeI-70" parent="E1q1ehJa4MZv8HJUVjeI-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Micro app launch buttons" vertex="1">
           <mxGeometry height="20" width="320" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-3" edge="1" parent="1" source="QaPPo9E1Lw258iwDzBf5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="QaPPo9E1Lw258iwDzBf5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" value="Calander Backend" vertex="1">
+          <mxGeometry height="40" width="80" x="720.0000000000002" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" value="Sticky Notes like Frontend" vertex="1">
+          <mxGeometry height="40" width="80" x="840.0000000000002" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=8;container=1;collapsible=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dropTarget=1;recursiveResize=0;connectable=0;allowArrows=0;" value="Main App" vertex="1">
+          <mxGeometry height="280" width="440" x="440" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-15" parent="QaPPo9E1Lw258iwDzBf5-5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;arcSize=8;" value="Top Menu" vertex="1">
+          <mxGeometry height="20" width="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-16" parent="QaPPo9E1Lw258iwDzBf5-5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;arcSize=8;" value="Main App Settings Selection" vertex="1">
+          <mxGeometry height="40" width="160" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-17" parent="QaPPo9E1Lw258iwDzBf5-5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;arcSize=8;" value="Micro App Selection / Launch" vertex="1">
+          <mxGeometry height="220" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-18" parent="QaPPo9E1Lw258iwDzBf5-5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;arcSize=8;" value="Actual Settings Editing Area" vertex="1">
+          <mxGeometry height="260" width="280" x="160" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=8;container=1;collapsible=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dropTarget=1;recursiveResize=0;connectable=0;allowArrows=0;" value="Main App (Sample)" vertex="1">
+          <mxGeometry height="280" width="440" x="920" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-20" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;arcSize=8;" value="Top Menu" vertex="1">
+          <mxGeometry height="20" width="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-23" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;arcSize=8;" value="Actual Settings Editing Area" vertex="1">
+          <mxGeometry height="260" width="280" x="160" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-24" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="General Settings" vertex="1">
+          <mxGeometry height="20" width="160" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-25" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Manage Database" vertex="1">
+          <mxGeometry height="20" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-26" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Sticky Notes" vertex="1">
+          <mxGeometry height="20" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-27" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Clip Board" vertex="1">
+          <mxGeometry height="20" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QaPPo9E1Lw258iwDzBf5-28" parent="QaPPo9E1Lw258iwDzBf5-19" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Dailys" vertex="1">
+          <mxGeometry height="20" width="160" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
