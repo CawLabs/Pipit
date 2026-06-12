@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-greet-example"
+description = "Allow greet_example command"
+commands.allow = ["greet_example"]
